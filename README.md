@@ -7,3 +7,6 @@ https://github.com/Kavo-and-Sho/matrix-calculator/blob/main/docs/architecture.md
 
 ## Процесс выполнения проекта
 https://github.com/Kavo-and-Sho/matrix-calculator/blob/main/docs/process.md
+
+## Команда
+https://github.com/Kavo-and-Sho/matrix-calculator/blob/58072224b28a9c009aec590cca389337f97483d0/docs/team.md
